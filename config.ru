@@ -1,5 +1,4 @@
 # Require config/environment.rb
-require "./app"
 
-set :app_file, __FILE__
+require './app'
 run Sinatra::Application
