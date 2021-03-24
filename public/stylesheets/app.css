@@ -1,6 +1,7 @@
 header {
     background-color: #244751;
     color: #e8fdff;
+    padding-left: 10px;
 }
 
 body {
@@ -27,4 +28,8 @@ a.photo{
   
   a.photo:hover{
     padding: 10px;
+  }
+
+  h1 {
+      padding-left: 10px;
   }
