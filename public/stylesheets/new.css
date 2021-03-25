@@ -1,0 +1,31 @@
+header {
+    background-color: #7B8898;
+    color: rgb(253, 244, 201);
+}
+
+body {
+    background-color: #7B8898;
+    font-family: 'Playfair Display', serif;
+}
+h1 {
+    padding-left: 100px;
+    padding-top: 10px;
+    background-color: #7B8898;
+    font-family: 'Playfair Display', serif;
+}
+h2 {
+    float: left;
+    font-weight: bold;
+    padding-left: 125px;
+    color: whitesmoke;
+
+}
+
+p {
+    float: left;
+    padding-left: 100px;
+    padding-right: 800px;
+    text-align: left;
+    color: whitesmoke;
+}
+
